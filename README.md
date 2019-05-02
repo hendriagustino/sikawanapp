@@ -26,7 +26,7 @@ On terminal, type in :
 
 #### Node installation on Windows 
 
-Go to [https://nodejs.org/en/download/](https://nodejs.org/en/download/) and follow all the steps to download.
+Go to `[https://nodejs.org/en/download/]` (https://nodejs.org/en/download/) and follow all the steps to download.
 
 ## INSTALL
 
