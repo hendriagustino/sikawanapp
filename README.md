@@ -30,8 +30,8 @@ Go to `https://nodejs.org/en/download/` and follow all the steps to download.
 
 ## INSTALL
 
-`$ git clone _git@github.com:hendriagustino/sikawanapp.git_` <br>
-`$ cd _sikawanapp_` <br>
+`$ git clone git@github.com:hendriagustino/sikawanapp.git` <br>
+`$ cd sikawanapp` <br>
 `$ npm install`
 
 # START 
