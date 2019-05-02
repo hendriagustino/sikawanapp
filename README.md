@@ -3,4 +3,4 @@
 ## Front-End Member
 * Rakhmatnw
 * Winata Arafat
-* **Hendri**
+* **Hendri Agustino**
