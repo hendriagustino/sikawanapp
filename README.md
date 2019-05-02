@@ -22,17 +22,17 @@ After installing, you can check whether Node.js has been installed by typing nod
 Node installation on Linux
 
 On terminal, type in : 
-sudo apt-get install nodejs
+`sudo apt-get install nodejs`
 
 Node installation on Windows 
 
-Go to https://nodejs.org/en/download/ and follow all the steps to download.
+Go to `https://nodejs.org/en/download/` and follow all the steps to download.
 
 INSTALL
 
-$ git clone _git@github.com:hendriagustino/sikawanapp.git_
+`$ git clone _git@github.com:hendriagustino/sikawanapp.git_
 $ cd _sikawanapp_
-$ npm install
+$ npm install`
 
 START 
 
