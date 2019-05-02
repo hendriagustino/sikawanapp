@@ -41,10 +41,10 @@ Go to [https://nodejs.org/en/download/](https://nodejs.org/en/download/) and fol
 #LOGIN ACCOUNT 
 
 Role:
-- School
-  `username: garudaschool@gmail.com` <br>
+- School <br>
+  `username: **garudaschool@gmail.com**` <br>
   `password: abcabc`
-- Admin
+- Admin <br>
   `username: andri` <br>
   `password: abcabc`
 
