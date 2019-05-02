@@ -38,6 +38,16 @@ Go to [https://nodejs.org/en/download/](https://nodejs.org/en/download/) and fol
 
 `$ npm start`
 
+#LOGIN ACCOUNT 
+
+Role:
+- School
+  `username: garudaschool@gmail.com` <br>
+  `password: abcabc`
+- Admin
+  `username: andri` <br>
+  `password: abcabc`
+
 ## LANGUAGES & TOOLS
 
 - **HTML**
