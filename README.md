@@ -8,7 +8,7 @@
 
 This application is limited to only the 3 main actors mentioned above.
 
-REQUIREMENTS
+# REQUIREMENTS
 
 For development, you will need to install Node.js on your environment.
 
@@ -26,7 +26,7 @@ sudo apt-get install nodejs
 
 Node installation on Windows 
 
-Go to (https://nodejs.org/en/download/) and follow all the steps to download.
+Go to https://nodejs.org/en/download/ and follow all the steps to download.
 
 INSTALL
 
