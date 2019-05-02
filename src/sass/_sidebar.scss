@@ -1,0 +1,63 @@
+.sidebar {
+  position: fixed;
+  top: 0; left: 0; bottom: 0;
+  width: 250px;
+  color: #fff;
+  background: #4285F4;
+  box-shadow: 
+    0 2px 5px 0 rgba(0,0,0,.16), 
+    0 2px 10px 0 rgba(0,0,0,.12);
+  z-index: 99999;
+
+  &-user {
+    padding: 1rem;
+    text-align: center;
+    
+    &-avatar {
+      width: 100px;
+      border-radius: 50%;
+      margin-bottom: 1rem;
+    }
+
+    &-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+
+    &-subtitle {
+      font-size: 1rem;
+    }
+  }
+
+  &-menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+    &-item a {
+      display: block;
+      font-size: 0.9rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+      color: #fff;
+      padding: .7rem 1rem;
+
+      &.active {
+        border-left: solid 5px #0d47a1;
+        background: rgba($color: #fff, $alpha: 0.1);
+        color: #fff;
+      }
+
+      &:hover {
+        background: rgba($color: #fff, $alpha: 0.1);
+        color: #fff;
+      }
+    }
+
+    &-item.logout {
+      width: 100%;
+      position: absolute;
+      bottom: 0;
+    }
+  }
+}

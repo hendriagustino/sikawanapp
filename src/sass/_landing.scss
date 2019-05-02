@@ -1,0 +1,62 @@
+// .landing-page {
+//   width: 100vw;
+//   height: 100vh;
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   align-items: center;
+//   background: url('../assets/img/bg.jpeg');
+//   background-repeat: no-repeat;
+//   background-size: cover;
+// }
+nav {
+  z-index: 999;
+}
+
+.hero {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  -webkit-clip-path: ellipse(95% 75% at 50% 25%);
+  clip-path: ellipse(95% 75% at 50% 25%);
+}
+
+.about,
+.feature{
+  padding: 3rem;
+  min-height: 50vh;
+  display: flex;
+  align-items: center;
+}
+
+.team {
+  min-height: 70vh;  
+  display: flex;
+  align-items: center;
+  background: #4285F4;
+
+}
+
+.team-item {
+  padding: 3em;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  // background: url('https://mdbootstrap.com/img/Photos/Slides/img%20(70).jpg');
+  background: white;
+  color: #4285F4;
+}
+
+.footer {
+  padding: 2rem;
+  a {
+    color: white;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+}
+
+
