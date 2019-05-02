@@ -42,11 +42,11 @@ $ npm install`
 
 - **HTML**
 - **CSS**
-  CSS3 for styling customization preference
-  MDBootstrap for React Components Styling
+  - CSS3 for styling customization preference
+  - MDBootstrap for React Components Styling
 - **Javascript**
-  React JS is used for UI 
-  Redux is used for app state management
+  - React JS is used for UI 
+  - Redux is used for app state management
 
 -----------------------------------
 
