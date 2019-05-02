@@ -42,11 +42,11 @@ Go to [https://nodejs.org/en/download/](https://nodejs.org/en/download/) and fol
 
 Role:
 - School <br>
-  `username: ` **`garudaschool@gmail.com`** <br>
-  `password: abcabc`
+  `username:`**`garudaschool@gmail.com`** <br>
+  `password:`**`abcabc`**
 - Admin <br>
-  `username: andri` <br>
-  `password: abcabc`
+  `username:`**`andri`** <br>
+  `password:`**`abcabc`**
 
 ## LANGUAGES & TOOLS
 
