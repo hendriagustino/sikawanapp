@@ -8,6 +8,16 @@
 
 This application is limited to only the 3 main actors mentioned above.
 
+# Snapshots of Web App 
+### Landing Page
+![main.png](images/main.png)
+
+### Admin Login Page 
+![admin.png](images/admin.png)
+
+### School Login Page 
+![school.png](images/school.png)
+
 ## REQUIREMENTS
 
 For development, you will need to install `Node.js` on your environment.
