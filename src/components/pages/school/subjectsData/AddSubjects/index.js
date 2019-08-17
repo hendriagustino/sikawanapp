@@ -17,7 +17,7 @@ class index extends Component {
   }
 
   handleClick=()=>{
-    this.props.addSubjects(this.props.token, this.state.subjects);
+    this.props.addTopic(this.props.token, this.state.subjects);
     this.props.toggle();
   }
 
