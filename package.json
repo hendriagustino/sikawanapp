@@ -8,7 +8,7 @@
     "jsonwebtoken": "^8.5.1",
     "mdbreact": "^4.11.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "query-string": "^6.4.2",
     "react": "^16.8.5",
     "react-confirm": "^0.1.18",
